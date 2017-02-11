@@ -24,10 +24,10 @@ Goal: Web based secure messaging system.
 * Message timeouts.
 * Clearing of message logs.
 
-## Architecture
+## Architecture:
 * HTTP --> Python --> DataBase
 
-## ENTITIES:
+## Entities:
 * User
    - User Id
    - Username
@@ -50,8 +50,6 @@ Goal: Web based secure messaging system.
    - Email
    - Message
    - Create time
-
-
 * CREATE ER
 
 
